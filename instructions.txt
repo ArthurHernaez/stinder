@@ -1,0 +1,30 @@
+1.) got to this website to get git shell (its a command prompt)
+https://git-for-windows.github.io/
+
+2.) make a folder with your name on your dekstop (Taylor, Hammad, Antonio)
+
+3.) on the git shell command prompt go to your folder ...Desktop/Arthur
+use the commands cd Desktop/Arthur to get there
+
+4.) once your in your folder type:
+git clone https://github.com/ArthurHernaez/stinder
+
+-this is the repository i created. its public, you have to pay to make it private
+
+5.) doing this will connect your folder to this repository (you will see a read me 
+
+hopefully you have done step 1 to 5
+here is how you properly add your code
+
+6.) once you connect your folder to this repository go to your folder
+
+7.) make any test file, txt, html, css, php and name in your folder
+
+8.) on you git shell command prompt type in git status
+	-you will see your file in red meaning it hasn't been added yet
+
+9.) type git add "yourfile.txt"
+
+10.)then type git commit -m "any message you want"
+
+11.) lastly type git push
